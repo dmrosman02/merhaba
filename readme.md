@@ -1,4 +1,0 @@
-# merhaba
-selam
-
-## merhaba dünya
